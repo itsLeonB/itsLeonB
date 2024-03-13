@@ -6,6 +6,8 @@
 
 ---
 
+<details><summary>A bit about my works:</summary>
+  
 ### My Tech Stacks:
 #### Languages:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -59,6 +61,8 @@
 </p>
 
 ---
+
+</details>
 
 ### Reach me out through:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellion-blessan) &nbsp;
