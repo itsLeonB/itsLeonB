@@ -1,5 +1,6 @@
 ### Hi there, I'm Leon 👋
 ### I'm a Web Development and Data Science enthusiast based in Indonesia.
+- 📜 Certified TensorFlow Developer
 - 👩‍💻 I have a keen interest in web development and AI.
 - 📱 Currently learning mobile development too.
 - 📚 Open to any opportunity for growth.
