@@ -6,8 +6,6 @@
 
 ---
 
-<details><summary>A bit about my works:</summary>
-  
 ### My Tech Stacks:
 #### Languages:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -36,26 +34,12 @@
 
 ---
 
-### 📘 My Top Projects
-<p align="left">
-  <a href="https://github.com/itsLeonB/rekam-medis-elektronik"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=rekam-medis-elektronik&theme=dark&hide_border=true&show_icons=false" alt="rekam-medis-elektronik"></a>
-  <a href="https://github.com/itsLeonB/workout-recommender"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=workout-recommender&theme=dark&hide_border=true&show_icons=false" alt="workout-recommender"></a>
-  <a href="https://github.com/itsLeonB/workout-recommender-api"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=workout-recommender-api&theme=dark&hide_border=true&show_icons=false" alt="workout-recommender-api"></a>
-  <a href="https://github.com/itsLeonB/covid-19-ann"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=covid-19-ann&theme=dark&hide_border=true&show_icons=false" alt="covid-19-ann"></a>
-  <a href="https://github.com/itsLeonB/toko"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=toko&theme=dark&hide_border=true&show_icons=false" alt="toko"></a>
-  <a href="https://github.com/itsLeonB/si-capstone"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=itsLeonB&repo=si-capstone&theme=dark&hide_border=true&show_icons=false" alt="si-capstone"></a>
-</p>
-
----
-
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsLeonB&show_icons=true&count_private=true&theme=dark&hide_border=true" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsLeonB&layout=compact&theme=dark&hide_border=true" />&nbsp;&nbsp;
 </p>
 
 ---
-
-</details>
 
 ### Reach me out through:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellion-blessan) &nbsp;
